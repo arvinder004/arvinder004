@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **C&CPP**
 
-- 👯 I’m looking to collaborate on **any project based on python language**
+- 👯 A school student
 
-- 💬 Ask me about **python,html,css**
+- 💬 Thinking big
 
 - 📫 How to reach me **asdhoul004@gmail.com**
 
