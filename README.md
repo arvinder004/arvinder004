@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **a student**
 
-- 🌱 I’m currently learning **Cloud Computing,Web Development**
+- 🌱 I’m currently learning **Cloud Computing,Web Development,AI**
 
 - 🤝 I’m practising **Competitive Programming**
 
