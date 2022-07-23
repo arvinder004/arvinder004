@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinder004&label=Profile%20views&color=0e75b6&style=flat" alt="arvinder004" /> </p>
 
-- 🔭 I’m currently **NOT working on anything just learning**
+- 🔭 I’m currently **a student**
 
-- 🌱 I’m currently learning **as many things i could**
+- 🌱 I’m currently learning **Cloud Computing,Web Development**
 
-- 🤝 I’m looking for **new ideas**
+- 🤝 I’m practising **Competitive Programming**
+
+- 💫 I'm currently looking for **Internships**
 
 - 📫 How to reach me **asdhoul004@gmail.com**
 
