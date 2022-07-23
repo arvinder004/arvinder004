@@ -5,7 +5,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-arvindersingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/arvinder-singh-dhoul-3168061a6/](https://www.linkedin.com/in/arvinder-singh-dhoul-3168061a6/))](https://www.linkedin.com/in/arvinder-singh-dhoul-3168061a6/) [![Gmail Badge](https://img.shields.io/badge/-asdhoul004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asdhoul004@gmail.com)](mailto:asdhoul004@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+ 
 
 <div style="text-align: right">Unity can only be manifested by Binary. </div>
 
