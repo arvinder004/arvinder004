@@ -155,12 +155,12 @@ My playground is where **LLMs, agents, and full‑stack engineering** fuse into 
 ## 📊 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinder004&show_icons=true&theme=tokyonight&hide_border=true" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinder004&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinder004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arvinder004&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-trophy.vercel.app/?username=arvinder004&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
